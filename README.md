@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Cryptix720">
-    <img src="https://github.com/Cryptix720/keres/keres.png" width=72 height=72>
+    <img src="https://github.com/Cryptix720/keres/blob/master/keres.png" width=72 height=72>
   </a>
 
   <h1 align="center">keres</h1>
