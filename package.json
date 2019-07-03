@@ -6,7 +6,8 @@
   "scripts": {
     "test": "node ./test.js",
     "snyk-protect": "snyk protect",
-    "prepare": "npm run snyk-protect"
+    "prepare": "npm run snyk-protect",
+    "prepublish": "npm run snyk-protect"
   },
   "devDependencies": {
     "should": "4.1.0"
@@ -22,7 +23,7 @@
     "fs": "0.0.1-security",
     "log4js": "^2.3.5",
     "path": "^0.12.7",
-    "snyk": "^1.104.2"
+    "snyk": "^1.189.0"
   },
   "snyk": true
 }
